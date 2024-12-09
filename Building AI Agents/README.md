@@ -52,4 +52,25 @@ Learn how to create advanced AI agents using cutting-edge tools and technologies
 | 4️⃣ | Crew AI and Transformer Agents | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/YgIVPctRyfE?si=NtMdGJhfn-X0PTuJ) |
 | 5️⃣ | AI Agent with Autogen | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/tx2VMzgmt0o?si=NmkheMWWHjv1VDtb) |
 
+## 📚 Blogs
+
+- **Multimodal AI: When Computers Learn to See, Hear, and Understand Like We Do!**
+   - [Read on Medium](https://medium.com/@yash.kavaiya3/multimodal-ai-when-computers-learn-to-see-hear-and-understand-like-we-do-c5747897eb47)
+
+- **Unlocking the Power of Discrete Latent Spaces: AutoEncoders**
+   - [Read on Medium](https://medium.com/@yash.kavaiya3/unlocking-the-power-of-discrete-latent-spaces-autoencoders-48cc462fac92)
+
+## 📚 Additional Blogs
+
+- **Understanding Multimodal AI: The Future of Intelligent Systems**
+   - [Read on Dly.to](https://dly.to/VG9z79HudnE)
+
+- **Unlocking the Power of Discrete Latent Spaces: AutoEncoders**
+   - [Read on Dly.to](https://dly.to/GBd7PVrCI6A)
+
+- **Understanding Denoising Autoencoders (DAEs): Cleaning Up Noisy Data**
+   - [Read on Dly.to](https://dly.to/Bv6ck2sALVx)
+
+- **Understanding Vector Quantized Variational Autoencoders (VQ-VAE): Discrete Latent Spaces for High-Quality Generation 🎨**
+   - [Read on Dly.to](https://dly.to/GvQFpCY2JPq)
 
